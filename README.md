@@ -28,10 +28,19 @@ Link:
 Password:  
 -----  
 
+# Dataset 4 - training set acquired via a laser scanning robot and a terrestrial laser scanner
+Option 1: Baidu Netdisk  
+Link:  
+Password:  
+Option 2: Google Drive  
+Link:  
+Password:  
+-----
+
 # Citation
 
 # Acknowledgments
   
 # Especially Thanks
-We gratefully acknowledge the Shanghai Shentong Metro Co., Ltd. for providing extensive opportunities to conduct tunnel inspections and data collection. Our sincere thanks go to Leica Geosystems for supplying multiple laser scanning instruments, and to Shanghai Dongce Technology Co., Ltd. for their technical support. Special thanks are extended to Li Wang, Jing Wu, Yihan Chen, Ruixin Lü, Shulin Zhu, and Weikang Feng for their invaluable contributions to data acquisition and processing.
+We gratefully acknowledge the Shanghai Shentong Metro Co., Ltd. for providing extensive opportunities to conduct tunnel inspections and data collection. Our sincere thanks go to Leica Geosystems for supplying multiple laser scanning instruments, and to Shanghai Dongce Technology Co., Ltd. for their technical support. Special thanks are extended to Li Wang, Jing Wu, Yihan Chen, Ruixin Lv, Shulin Zhu, and Weikang Feng for their invaluable contributions to data acquisition and processing.
 

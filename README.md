@@ -29,8 +29,6 @@ Password:
 -----  
 
 # Citation
-
-# Acknowledgments
   
 # Especially Thanks
 We gratefully acknowledge the Shanghai Shentong Metro Co., Ltd. for providing extensive opportunities to conduct tunnel inspections and data collection. Our sincere thanks go to Leica Geosystems for supplying multiple laser scanning devices, and to Shanghai Eastern Survey & Technology Co., Ltd. for their technical support. Special thanks are extended to Li Wang, Jing Wu, Wei Lin, Yihan Chen, Ruixin Lv, Shulin Zhu, and Weikang Feng for their invaluable contributions to data acquisition and processing.

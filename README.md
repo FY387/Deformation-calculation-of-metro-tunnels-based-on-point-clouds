@@ -12,16 +12,16 @@ It should be noted that to ensure the open-sourced data avoids confidentiality i
 
 # Dataset 2 - testing set acquired via the railcar-assisted mobile laser scanning equipment
 Option 1: Baidu Netdisk  
-Link: https://pan.baidu.com/s/1WOhZAQxUN7wOdNOXIjxWdw 
-Password: axya 
+Link: https://pan.baidu.com/s/1WOhZAQxUN7wOdNOXIjxWdw  
+Password: axya  
 Option 2: Google Drive  
 Link: https://drive.google.com/drive/folders/1vgcQsQEmriNzhr3teEzZH74xf2R_UrLg?usp=drive_link    
 -----  
 
 # Dataset 3 - testing set acquired via a drone-assisted mobile laser scanning equipment
 Option 1: Baidu Netdisk  
-Link: https://pan.baidu.com/s/1kVUvAe06mYkQgZ5gsoedQQ 
-Password: y7dn 
+Link: https://pan.baidu.com/s/1kVUvAe06mYkQgZ5gsoedQQ  
+Password: y7dn  
 Option 2: Google Drive  
 Link: https://drive.google.com/drive/folders/138onOkDUZNU0DljOQvENGdDBOFcczQg9?usp=drive_link  
 -----  

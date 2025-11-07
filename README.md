@@ -27,7 +27,7 @@ Link: https://drive.google.com/drive/folders/138onOkDUZNU0DljOQvENGdDBOFcczQg9?u
 -----  
 
 # Citation
-Yong Feng, Xiao-Lei Zhang, Shi-Jin Feng, Yong Zhao, Qing-Zhao Kong, Zhu-Lin Zhu  
+Yong Feng, Xiao-Lei Zhang, Shi-Jin Feng, Yong Zhao, Qing-Zhao Kong, Shu-Lin Zhu  
 Metro tunnel deformation detection based on laser scanning robot and point cloud semantic segmentation  
 Volume 166  
 2025  
